@@ -1,0 +1,19 @@
+.header{
+    font-weight: bold;
+}
+#header1{
+    font-size: 30px;
+}
+#header2{
+    font-size: 25px;
+}
+#image1{
+    width: 500px;
+}
+.page{
+    position: relative;
+    left: 50px;
+}
+.address{
+    font-style: italic;
+}
